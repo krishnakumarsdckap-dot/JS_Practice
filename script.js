@@ -21,13 +21,13 @@
 // 3 Sum of all odd numbers upto 100.
 
 // let sum = 0;
-for(i=1;i<=100;i++){
+// for(i=1;i<=100;i++){
 //     if(i%2==0){
 //         continue;
 //     }
 //     console.log(i)
 //     sum+= i
-}
+// }
 // console.log("Sum of all Odd numbers upto 100 is",sum);
 
 
@@ -214,25 +214,25 @@ for(i=1;i<=100;i++){
 
 // 8. Get a number input n from the user. Print the numbers 1 to n with the following conditions:
 
-// let x = 0;
+// let arr = [];
 // const n = Number(prompt("Enter the Number:"));
 // for(i=1;i<=n;i++){
     
-//   x+=1
-//    if(x%3==0 && x%5==0){
-//         console.log('"Fizz Buzz"')
+//    if(i%3==0 && i%5==0){
+//         arr.push("Fizz Buzz")
 //    }
-//    else if (x%3==0){
-//         console.log('"Fizz"')
+//    else if (i%3==0){
+//         arr.push("Fizz")
 //    }
-//    else if (x%5==0){
-//         console.log('"Buzz"')
+//    else if (i%5==0){
+//         arr.push("Buzz")
 //    }
 //    else{
-//         console.log(x)
+//         arr.push(i)
 //    }
-
+    
 // }
+// console.log(arr)
 
 
 // ----------------------------------------------------------------------//
